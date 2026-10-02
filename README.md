@@ -4,7 +4,7 @@ Python 3.13
 # Развёртывание и запуск
 1. Склонируйте репозиторий
 ```bash
-git clone https://github.com/muzilyag/sai_lr1_strukov
+git clone https://github.com/muzilyag/sai_lr2_strukov
 ```
 2. Создайте виртуальное окружение (venv)
 ```bash
